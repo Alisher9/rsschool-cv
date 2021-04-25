@@ -3,10 +3,11 @@
  ## Contact info:
  *tel.:* +7708 491 06 34
  *email:* alishktl99@gmail.com
- *telegram:* @ollyysg
+ *telegram:* @ollyysh
  *skype:* alishka99
  *linkedin:* [https://www.linkedin.com/in/alisher-sattarbek-bb0b77170/] (https://www.linkedin.com/in/alisher-sattarbek-bb0b77170/)
- *I have huge motivation to become a highly qualified IT-specialist, who is able to constantly improve his qualification through continuous research and self-development. Hard-working programmer with a flair for creating elegant solutions in the least amount of time. Working with iOS development, looking to use my skills in the most productive way*
+ 
+ I have huge motivation to become a highly qualified IT-specialist, who is able to constantly improve his qualification through continuous research and self-development. Hard-working programmer with a flair for creating elegant solutions in the least amount of time. Working with iOS development, looking to use my skills in the most productive way
  
 ## Education 
  
